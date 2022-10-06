@@ -61,6 +61,7 @@ In adafruit IO
 2. Activeer de ‘Serial Monitor’ 
 3. Open de serial monitor (tab onderaan)
 4. Zet de serial monitor op 115200 baud
+<img src="../images/Baud.png">
 5. Als alles gelukt is zie je in de serial monitor dat je verbonden bent 
 6. Verander nu in Adafruit IO de kleur, dat zie je terug in de Serial monitor
 7. Is je ledstrip ook goed aangesloten, dan kun je met de colorpicker de LED kleur aanpassen. Je hebt dus zelf een Philips (Signify) HUE gemaakt. Voor een paar euro. Adafruit draait ook op je mobiel, dus kun je nu (bijna) alles in het filmpje van Les1 
