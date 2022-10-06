@@ -66,7 +66,7 @@ In adafruit IO
 6. Verander nu in Adafruit IO de kleur, dat zie je terug in de Serial monitor
 7. Is je ledstrip ook goed aangesloten, dan kun je met de colorpicker de LED kleur aanpassen. Je hebt dus zelf een Philips (Signify) HUE gemaakt. Voor een paar euro. Adafruit draait ook op je mobiel, dus kun je nu (bijna) alles in het filmpje van Les1 
 
-# Errors 
+# Errors:
 
 Probleem:
 <img src="/images/Error1.png">
@@ -74,3 +74,7 @@ Probleem:
 
 Oplossing:
 <img src="/kjhuimages/Error3.png">
+
+# Bronnen:
+
+https://docs.google.com/document/d/14jhaxaJUhuu0p6_u_oNj8_50Y6PAmtrvcePtKc0HDGs/edit#
