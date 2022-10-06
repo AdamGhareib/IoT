@@ -73,4 +73,4 @@ Probleem:
 <img src="/images/Error2.png">
 
 Oplossing:
-<img src="/images/Error3.png">
+<img src="/kjhuimages/Error3.png">
