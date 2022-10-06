@@ -11,8 +11,8 @@ Adafruit IO is een Internet of Things platform waar je (gebruik makend van het M
 
 # Benodigde hardware componenten
 
-1x Arduino Board (ESP8266 Development Board)
-1x LED strip
+- 1x Arduino Board (ESP8266 Development Board)
+- 1x LED strip
 
 # Stap 1: Installeer de Arduino IO libraries
 
@@ -53,7 +53,7 @@ In adafruit IO
 4. (De NodeMCU werkt niet op 5Ghz WiFi)
 5. Gebruik liefst de hotspot van je telefoon, dit gebruikt < 0.1 Mb data per uur, dus niet bang zijn
 6. in de Tab adafruit_14_Neopixel.ino
-7. Pas: #define PIXEL_PIN 5 aan naar #define PIXEL_PIN D5
+7. Pas: #define **PIXEL_PIN 5** aan naar #define **PIXEL_PIN D5**
 
 # Stap 5: Code uploaden (of druk eerst op het vinkje =  Verify)
 
