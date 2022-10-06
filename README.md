@@ -21,7 +21,7 @@ Om de communicatie met Adafruit IO tot stand te kunnen brengen, moeten we wat ex
 1. Klik op de 3e tab (zie onderstaande afbeelding) 
 2. zoek naar  Adafruit IO Arduino (by Adafruit) in in het zoekvak,
 3. Install (kies Install All)
-<img src="../images/InstallLibrary.png">
+<img src="/images/InstallLibrary.png">
 
 # Stap 2: Adafruit IO Setup
 
@@ -29,7 +29,7 @@ Om gebruik te kunnen maken van Adafruit IO, moeten we eerst een account en een d
 
 1. Ga daarvoor naar https://io.adafruit.com/ , klik op “Get Started for Free” en maak een account aan.  
 2. In Adafruit IO: ga de gele sleutel in het menu
-<img src="../images/ActivateKey.png">
+<img src="/images/ActivateKey.png">
 3. Kopieer je key en username
 
 # Stap 3: Adafruit IO Feed en Colorpicker aanmaken
@@ -39,7 +39,7 @@ In adafruit IO
 1. Dashboards > New Dashboard (Maak een dashboard aan)
 2. Ga naar het dashboard
 3. Create New Block  via:
-<img src="../images/Settings.png">
+<img src="/images/Settings.png">
 4. Kies color Picker
 5. Create de feed name: color
 6. Create Block
@@ -61,7 +61,7 @@ In adafruit IO
 2. Activeer de ‘Serial Monitor’ 
 3. Open de serial monitor (tab onderaan)
 4. Zet de serial monitor op 115200 baud
-<img src="../images/Baud.png">
+<img src="/images/Baud.png">
 5. Als alles gelukt is zie je in de serial monitor dat je verbonden bent 
 6. Verander nu in Adafruit IO de kleur, dat zie je terug in de Serial monitor
 7. Is je ledstrip ook goed aangesloten, dan kun je met de colorpicker de LED kleur aanpassen. Je hebt dus zelf een Philips (Signify) HUE gemaakt. Voor een paar euro. Adafruit draait ook op je mobiel, dus kun je nu (bijna) alles in het filmpje van Les1 
@@ -69,8 +69,8 @@ In adafruit IO
 # Errors 
 
 Probleem:
-<img src="../images/Error1.png">
-<img src="../images/Error2.png">
+<img src="/images/Error1.png">
+<img src="/images/Error2.png">
 
 Oplossing:
-<img src="../images/Error3.png">
+<img src="/images/Error3.png">
