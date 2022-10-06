@@ -1,15 +1,18 @@
-# Stel de LEDstrip kleur via een colorpicker in via Adafruit IO
+# Stel de LED strip kleur via een colorpicker in via Adafruit IO
 
 Gemaakt door Adam el Ghareib - 500849066
 5 oktober 2022
 
 # Introductie
 
-sss
+In deze tutorial ga je leren hoe je de kleur van je LED strip aanroept via een colorpicker van Adafruit IO.
+
+Adafruit IO is een Internet of Things platform waar je (gebruik makend van het MQTT protocol) sensordata online zichtbaar kunt maken in een zogenaamde “feed”, en waar je je actuatoren via het web (desktop of mobiel) kunt bedienen. 
 
 # Benodigde hardware componenten
 
-sss
+1x Arduino Board (ESP8266 Development Board)
+1x LED strip
 
 # Stap 1: Installeer de Arduino IO libraries
 
@@ -36,7 +39,7 @@ In adafruit IO
 1. Dashboards > New Dashboard (Maak een dashboard aan)
 2. Ga naar het dashboard
 3. Create New Block  via:
-<img src="images/settings.png">
+<img src="../images/Settings.png">
 4. Kies color Picker
 5. Create de feed name: color
 6. Create Block
@@ -61,3 +64,12 @@ In adafruit IO
 5. Als alles gelukt is zie je in de serial monitor dat je verbonden bent 
 6. Verander nu in Adafruit IO de kleur, dat zie je terug in de Serial monitor
 7. Is je ledstrip ook goed aangesloten, dan kun je met de colorpicker de LED kleur aanpassen. Je hebt dus zelf een Philips (Signify) HUE gemaakt. Voor een paar euro. Adafruit draait ook op je mobiel, dus kun je nu (bijna) alles in het filmpje van Les1 
+
+# Errors 
+
+Probleem:
+<img src="../images/Error1.png">
+<img src="../images/Error2.png">
+
+Oplossing:
+<img src="../images/Error3.png">
