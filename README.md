@@ -70,7 +70,7 @@ In adafruit IO
 
 Probleem:
 <img src="/images/Error1.png">
-<img src="/images/Error2.png">
+<img src="/images/Error2.jpeg">
 
 Oplossing:
 <img src="/kjhuimages/Error3.png">
