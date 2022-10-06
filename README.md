@@ -21,7 +21,7 @@ Om de communicatie met Adafruit IO tot stand te kunnen brengen, moeten we wat ex
 1. Klik op de 3e tab (zie onderstaande afbeelding) 
 2. zoek naar  Adafruit IO Arduino (by Adafruit) in in het zoekvak,
 3. Install (kies Install All)
-<img src="/images/InstallLibrary.png">
+<img src="/images/InstallLibrary.png" width="375px">
 
 # Stap 2: Adafruit IO Setup
 
@@ -39,7 +39,7 @@ In adafruit IO
 1. Dashboards > New Dashboard (Maak een dashboard aan)
 2. Ga naar het dashboard
 3. Create New Block  via:
-<img src="/images/Settings.png">
+<img src="/images/Settings.png" width="375px" alt="settings">
 4. Kies color Picker
 5. Create de feed name: color
 6. Create Block
